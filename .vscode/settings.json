@@ -1,0 +1,6 @@
+{
+    "dotnetAcquisitionExtension.allowInvalidPaths": true,
+    "dotnet.server.path": "C:\\Program Files\\dotnet\\dotnet.exe",
+    "dotnet.server.crashDumpPath": "C:\\Program Files\\dotnet\\dotnet.exe",
+    "omnisharp.dotnetPath": "C:\\Program Files\\dotnet\\dotnet.exe"
+}
